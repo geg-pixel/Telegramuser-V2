@@ -1,0 +1,12 @@
+{
+  "name": "netlify-telegram-function",
+  "version": "1.0.0",
+  "description": "Dependencies for send_image Netlify function",
+  "main": "send_image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
